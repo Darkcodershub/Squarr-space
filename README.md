@@ -1,2 +1,0 @@
-# Squarr-space
-Gsap animation 
